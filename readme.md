@@ -12,7 +12,7 @@ http://blog.markshead.com/1173/chef-solo-demo-video/
 * Check out this repo to the /var/chef directory
 
     ```bash
-    sudo git clone https://github.com/markshead/chef-solo-demo.git /var/chef
+    sudo git clone https://github.com/skeyelab/chef-solo-demo.git /var/chef
     ```
     
     This command will pull down the repository from GitHub and put it where chef can find it.
